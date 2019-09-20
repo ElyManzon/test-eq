@@ -1,0 +1,107 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;PRC;ETC;ETC;Radio Coms Team +Equipment;20900000;020901000;Kaychanarian;Finished;1;province
+2;PRC;Welfare;PSS;PSS;20900000;020901000;Kayhuvokan;Finished;11;individuals
+3;PRC;Health;Safety;First Aid Kit;20900000;020901000;Kaychanarian;Finished;1;chapter
+4;PRC;Health;Safety;First Aid Kit;20900000;020901000;Kaychanarian;Finished;1;chapter
+5;PRC;Relief;Education;TLS;20900000;020901000;;Ongoing;3;units
+6;PRC;Assesment;Assessment;Assessment;20900000;020902000;;Finished;1;province
+7;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;300;individuals
+8;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;13;individuals
+9;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;16; individuals
+10;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;600;individuals
+11;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+12;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;21; individuals
+13;PRC;WASH;WASH;Water Bladder 5K;20900000;020902000;San Rafael;Finished;;individuals
+14;PRC;WASH;WASH;Water Production Unit (LMS);20900000;020902000;San Rafael;Finished;; individuals
+15;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+16;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;700;individuals
+17;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;600;individuals
+18;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;775;individuals
+19;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+20;PRC;Welfare;PSS;Welfare Desk;20900000;020902000;San Rafael;Finished;1;area
+21;PRC;Assesment;Assessment;Assessment;20900000;020902000;;Finished;1;municipality
+22;PRC;Relief;Food;RTE;20900000;020902000;San Rafael;Finished;560;families
+23;PRC;Relief;Food;RTE;20900000;020902000;San Rafael;Finished;60;families
+24;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+25;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;600;individuals
+26;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;5;individuals
+27;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;3;individuals
+28;PRC;Shelter;Shelter;Tarpaulin;20900000;020902000;San Rafael;Finished;15;families
+29;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;152;individuals
+30;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;35;individuals
+31;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;20;individuals
+32;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;individuals
+33;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;individuals
+34;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+35;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;individuals
+36;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;15;individuals
+37;PRC;Shelter;Shelter;Tarpaulin;20900000;020902000;San Rafael;Finished;3;families
+38;PRC;Relief;Food;Hot Meals;20900000;020902000;San Rafael;Finished;500;individuals
+39;PRC;Shelter;Shelter;Tarpaulin;20900000;020902000;San Rafael;Finished;2;families
+40;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;individuals
+41;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;
+42;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;31;families
+43;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;63;individuals
+44;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+45;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+46;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+47;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+48;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;
+49;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;37;families
+50;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;69;individuals
+51;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;24;individuals
+52;PRC;Education;Education;Tarpaulin;20900000;020902000;San Rafael;Finished;;
+53;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;25;families
+54;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;families
+55;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+56;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;62;individuals
+57;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;37;families
+58;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;45;individuals
+59;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;35;families
+60;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;62;individuals
+61;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+62;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;35;families
+63;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;116;individuals
+64;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;1;individuals
+65;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;17;families
+66;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;Sta. Lucia;Finished;54;individuals
+67;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;21;families
+68;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rosa;Finished;205;individuals
+69;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+70;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;26;families
+71;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rosa;Finished;159;individuals
+72;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;54;families
+73;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rosa;Finished;186;individuals
+74;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+75;PRC;Welfare;PSS;PSS;20900000;020902000;San Rafael;Finished;2;individuals
+76;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;56;families
+77;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+78;PRC;Education;Education;Tarpaulin;20900000;020902000;San Rafael;Finished;;
+79;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;34;families
+80;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+81;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;189;individuals
+82;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;154;individuals
+83;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;13;families
+84;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;27;families
+85;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;
+86;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;16;families
+87;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;16;families
+88;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;12;families
+89;PRC;WASH;WASH;Water Produced;20900000;020902000;San Rafael;Finished;;families
+90;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;183;individuals
+91;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;11;families
+92;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;11;families
+93;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;16;families
+94;PRC;Shelter;WASH;Tarpaulin;20900000;020902000;San Rafael;Finished;1;chapter
+95;PRC;Shelter;Shelter;Tarpaulin;20900000;020902000;San Rafael;Finished;1;chapter
+96;PRC;WASH;WASH;Hygiene Promotion;20900000;020902000;San Rafael;Finished;2;individuals
+97;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;3;families
+98;PRC;WASH;WASH;Eemergency Hygiene Promotion Training;20900000;020902000;San Rafael;Finished;23;individuals
+99;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;4;families
+100;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;2;families
+101;PRC;WASH;WASH;Eemergency Hygiene Promotion Training;20900000;020902000;Sta. Lucia;Finished;19;individuals
+102;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;7;families
+103;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;;
+104;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;2;families
+105;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;4;families
+106;PRC;WASH;WASH;Water;20900000;020902000;San Rafael;Finished;4;families
